@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6836",
+  "folder": "YouTube__watch_20260524130430_878140",
+  "base_name": "Farruko_ft_Karol_G_(_El_secreto_)_official_Lyrics_tthBX3C0tws_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/morteza1011/Cloud-Downloads3/releases/tag/co-releases-v1-6836",
+  "files": [
+    {
+      "name": "Farruko_ft_Karol_G_._El_secreto_._official_Lyrics_tthBX3C0tws_720p.mp4",
+      "url": "https://github.com/morteza1011/Cloud-Downloads3/releases/download/co-releases-v1-6836/Farruko_ft_Karol_G_._El_secreto_._official_Lyrics_tthBX3C0tws_720p.mp4",
+      "api_url": "https://api.github.com/repos/morteza1011/Cloud-Downloads3/releases/assets/428559556",
+      "id": 428559556,
+      "size": 31142289,
+      "download_count": 0
+    }
+  ]
+}
